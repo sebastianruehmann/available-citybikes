@@ -8,6 +8,7 @@ Copyright © 2023 by the authors.
 
 This work is licensed under a [https://creativecommons.org/licenses/by/4.0/](Creative Commons Attribution 4.0 International License).
 
-![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+[![CC BY 4.0][https://i.creativecommons.org/l/by/4.0/88x31.png]][http://creativecommons.org/licenses/by/4.0/]
+
 
 
